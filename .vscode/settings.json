@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "area.h": "c"
+        "area.h": "c",
+        "cstdio": "c"
     }
 }
